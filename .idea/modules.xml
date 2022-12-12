@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/OpenBootcamp.JavaBasico.iml" filepath="$PROJECT_DIR$/OpenBootcamp.JavaBasico.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OpenBootcamp.RutaBackendJava.iml" filepath="$PROJECT_DIR$/OpenBootcamp.RutaBackendJava.iml" />
     </modules>
   </component>
 </project>
