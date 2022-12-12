@@ -8,7 +8,7 @@
  *  int, long, double, boolean, String
  **/
 
-package com.javabasico.entregables;
+package com.javabasico;
 
 public class SesionUnoJava {
     public static void main(String[] args) {

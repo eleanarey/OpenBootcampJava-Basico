@@ -2,7 +2,7 @@
  * Crear una funcion que reciba un precio y devuelva el precio con el IVA incluido
  */
 
-package com.javabasico.entregables;
+package com.javabasico;
 
 public class SesionDosJava {
 

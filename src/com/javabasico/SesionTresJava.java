@@ -7,7 +7,7 @@
  *
  */
 
-package com.javabasico.entregables;
+package com.javabasico;
 import java.util.Scanner;
 
 public class SesionTresJava {
